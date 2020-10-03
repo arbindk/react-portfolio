@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name": "Arbind Kumar",
+    "occupation": "Software Developer at Accops System Pvt. Ltd.",
+    "description": "Software Developer working on C/HTML/CSS/JS.",
+    "image": "ARBIND.jpeg",
+    "bio": "My name is Arbind, I'm a developer and mostly handles task realted to web and UI and currently preparing to code in React JS.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "arbindkmr98@gmail.com",
+    "phone": "+91 820 815 2508",
+    "address": {
+      "street": "123 Anonymous Society",
+      "city": "Pune",
+      "state": "MH",
+      "zip": "000000"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/arbinddash/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/arbind-kumar-016214138/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/its_arvnd/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/arbindk",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "DAV",
+        "degree": "Post Graduation in Advance Computing",
+        "graduated": "Bachelor in Computer Science - May 2015",
+        "description": "Graduated with first class"
+      }
+    ],
+    "work": [
+      {
+        "company": "Covergys India Pvt. Ltd.",
+        "title": "Technical Support",
+        "years": "Aug 2015 - Aug 2016",
+        "description": "Worked in Microsoft Process handling issues related to microsoft products."
+      },
+      {
+        "company": "Aurus Tech Pvt. Ltd.",
+        "title": "System Analyst",
+        "years": "May 2017 - Feb 2020",
+        "description": "debugging and analysing logs"
+      },
+      {
+        "company": "Accops India Pvt.Ltd.",
+        "title": "Software Developer",
+        "years": "Feb 2020",
+        "description": "using C C++ JS HTML CSS XML XSL for develoopment"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C",
+        "level": "60%"
+      },
+      {
+        "name": "C++",
+        "level": "40%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "Java Script",
+        "level": "65%"
+      },
+      {
+        "name": "HTML",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Rock Paper Scissor Game",
+        "category": "Rock Papaer scissor Game in java script",
+        "image": "RockPaperScissorGame.jpg"
+      },
+      {
+        "title": "BlackJack Game",
+        "category": "BlackJack Game in JS and ",
+        "image": "BalckJackGame.PNG"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "He can do the task.",
+        "user": "Vicky Singh"
+      }
+    ]
+  }
+}
